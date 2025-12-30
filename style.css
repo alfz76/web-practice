@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.box-1 {
+    width: 200px;
+    background-color: red;
+    color: white;
+}
+
+.box-2 {
+    width: 200px;
+    background-color: black;
+    color: white;
+}
