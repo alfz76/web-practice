@@ -1,0 +1,25 @@
+h1 {
+    color: blueviolet;
+    font-size: 60px;
+    font-style: oblique
+}
+
+#kire {
+    /* default = content-box and there is add padding and border eg. total size here = 224*224 */
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 30px;
+}
+
+.bolre {
+    /* in border-box all the things like ,padding,border are inside 200px eg. total size here = 200*200 */
+    width: 200px;
+    height:200px;
+    padding: 10px;
+    border: 2px solid black; 
+    box-sizing: border-box;
+    margin:30px;
+
+}

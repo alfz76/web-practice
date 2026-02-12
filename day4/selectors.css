@@ -1,0 +1,22 @@
+.highlight{ background-color:rgb(180, 218, 111);
+}
+.big{
+    font-size: 40px;
+}
+
+.biggest{
+    font-size:70px;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.red{
+    color:red;
+}
+div p{
+    font-style:italic
+} 
+h2,h3,h5,h6{
+    font-style:oblique;color:chocolate;font-size:22px
+}
